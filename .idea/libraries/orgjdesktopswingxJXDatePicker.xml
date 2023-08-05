@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="orgjdesktopswingxJXDatePicker">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ext files/orgjdesktopswingxJXDatePicker" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/ext files/orgjdesktopswingxJXDatePicker" recursive="false" />
+  </library>
+</component>
